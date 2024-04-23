@@ -44,13 +44,64 @@ h1 {
   padding: 0.5rem;
 }
 
-.btn {
+/* .btn {
+  font-weight: 600;
+  width: 330px;
+  margin-top: 15px;
+  margin-left: 420px;
+  padding: 0.6rem;
+  
+} */
+.btn:hover {
+  background-color: #ff854a;
+}
+.addition {
   font-weight: 600;
   width: 330px;
   margin-top: 15px;
   margin-left: 420px;
   padding: 0.6rem;
 }
-.btn:hover {
+.addition:hover {
+  background-color: #ff854a;
+}
+.substract {
+  font-weight: 600;
+  width: 330px;
+  margin-top: 15px;
+  margin-left: 420px;
+  padding: 0.6rem;
+}
+.substract:hover {
+  background-color: #ff854a;
+}
+.multiply {
+  font-weight: 600;
+  width: 330px;
+  margin-top: 15px;
+  margin-left: 420px;
+  padding: 0.6rem;
+}
+.multiply:hover {
+  background-color: #ff854a;
+}
+.division {
+  font-weight: 600;
+  width: 330px;
+  margin-top: 15px;
+  margin-left: 420px;
+  padding: 0.6rem;
+}
+.division:hover {
+  background-color: #ff854a;
+}
+.reset {
+  font-weight: 600;
+  width: 330px;
+  margin-top: 15px;
+  margin-left: 420px;
+  padding: 0.6rem;
+}
+.reset:hover {
   background-color: #ff854a;
 }
