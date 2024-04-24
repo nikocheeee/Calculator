@@ -24,6 +24,15 @@ division.addEventListener("click", (e) => {
     sums.textContent = sum
 })
 reset.addEventListener("click", (e) => {
-    value1.value = ""
-    value2.value = ""
+    let sum1 = value1.value=""
+    let sum2 = value2.value=""
+    
+
+    sums.textContent=sum1
+    sums.textContent=sum2
+
+
+
+
+
 })
